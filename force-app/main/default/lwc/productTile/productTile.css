@@ -1,0 +1,16 @@
+.content{
+    padding: 9px;
+    background-color: #ffffff;
+}
+a{
+    color: inherit;
+}
+title{
+    font-weight: bold;
+    text-transform: none;
+}
+img-product{
+    height: 120px;
+    max-width: initial;
+    pointer-events: none;
+}
