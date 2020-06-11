@@ -1,6 +1,7 @@
 {
-  "orgName": "Demo company",
+  "orgName": "Harianee Media",
   "edition": "Developer",
+  "hasSampleData": true,
   "features": [],
   "settings": {
     "lightningExperienceSettings": {
