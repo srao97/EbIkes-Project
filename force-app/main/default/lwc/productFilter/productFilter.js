@@ -49,7 +49,8 @@ export default class ProductFilter extends LightningElement {
                     filterArray.push(value);
                 }
                 else{
-                //   this.filters(event.target.dataset.filter)=filterArray.filter(item=>item !==value);
+                    this.filters(event.target.dataset.filter)==filterArray.filter(item=>item !==value)
+                                 
                 }
                 fireEvent(this.pageRef, 'filterChange',this.filters);
                 }
